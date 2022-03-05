@@ -1,2 +1,2 @@
-# kuliah
-Repositori ini berisi semua source code selama kuliah
+# README~
+This repo contains all source codes from university courses tasks
