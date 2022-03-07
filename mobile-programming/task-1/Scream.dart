@@ -1,3 +1,8 @@
+/*
+    Nama: Adam Najmi Zidan
+    NPM : 065119079
+*/
+
 String scream(int length) => "A${'a' * length}h!";
 
 main() {

@@ -1,3 +1,8 @@
+/*
+    Nama: Adam Najmi Zidan
+    NPM : 065119079
+*/
+
 import 'dart:math';
 
 abstract class Shape {
